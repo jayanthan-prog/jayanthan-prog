@@ -1,9 +1,8 @@
 # Hi, I'm Jayanthan S K 👋
 
-**3rd-Year Student | Full-Stack Developer | Cybersecurity Enthusiast**  
+**4th-Year Student | Full-Stack Developer | Cybersecurity Enthusiast**  
 🌐 Portfolio: [jayanthan-portfolio.netlify.app](https://jayanthan-portfolio.netlify.app)  
 💼 LinkedIn: [linkedin.com/in/jayanthan](https://www.linkedin.com/in/jayanthan)  
-🏢 Founder @ GignexSolutions  
 📍 Sathyamangalam, India  
 
 ---
